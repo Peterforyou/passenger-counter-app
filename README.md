@@ -20,7 +20,7 @@ This is a passenger counter app where you get to count the numbers of passengers
 
 ### Links
 
-- Live Site URL:(https://peterforyou.github.io/Song-app/)
+- Live Site URL:(https://peterforyou.github.io/passenger-counter-app/)
 
 ### Built with
 
