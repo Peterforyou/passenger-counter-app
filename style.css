@@ -1,0 +1,63 @@
+* {
+    padding: 0rem;
+    margin: 0rem;
+    box-sizing: border-box;
+}
+html {
+    font-size: 62.5%;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    margin: auto;
+    text-align: center;
+    background-color: rgb(15, 28, 2);
+}
+section {
+    background: linear-gradient(to right, rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url(./img/passenger-pix.webp) no-repeat center center/cover;
+    height: 90vh;
+    width: 50%;
+    margin: 5rem auto;
+}
+#cover {
+    line-height: 9rem;
+    padding: 5rem 0rem;
+}
+#head {
+    font-size: 5rem;
+    text-transform: uppercase;
+    background: linear-gradient(15deg, green, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+#zero {
+    font-size: 6rem;
+}
+#increase-btn, #save-btn {
+    border: none;
+    display: block;
+    margin: 1.5rem auto;
+    font-size: 3rem;
+    text-align: center;
+    color: #f4f4f4;
+    width: 70%;
+}
+#increase-btn:hover, #save-btn:hover  {
+    opacity: .6;
+}
+#increase-btn {
+    background-color: red;
+    padding: 1rem 2rem;
+    border-radius: .6rem;
+}
+#save-btn {
+    background-color: green;
+    padding: 1rem 2rem;
+    border-radius: .6rem;
+}
+#entries {
+    font-size: 2.5rem;
+    line-height: 4rem;
+    width: 90%;
+    margin: auto;
+}

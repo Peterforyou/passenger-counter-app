@@ -1,0 +1,19 @@
+section {
+    width: 90%;
+    height: 90vh;
+}
+#head {
+    font-size: 3.2rem;
+}
+#cover {
+    line-height: 12rem;
+}
+#increase-btn, #save-btn {
+    margin: 3rem auto;
+}
+#zero {
+    font-size: 10rem;
+}
+#entries {
+    font-size: 2rem;
+}
